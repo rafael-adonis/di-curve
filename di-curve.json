@@ -1,0 +1,3509 @@
+{
+  "di-curve-id": {
+    "S": "6e47f442-0621-4eea-87fa-a0b388f52465"
+  },
+  "interest-rates": {
+    "L": [
+      {
+        "M": {
+          "business-days": {
+            "N": "1"
+          },
+          "calendar-days": {
+            "N": "1"
+          },
+          "value": {
+            "N": "10.65"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3"
+          },
+          "calendar-days": {
+            "N": "5"
+          },
+          "value": {
+            "N": "10.659"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4"
+          },
+          "calendar-days": {
+            "N": "6"
+          },
+          "value": {
+            "N": "10.66"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5"
+          },
+          "calendar-days": {
+            "N": "7"
+          },
+          "value": {
+            "N": "10.66"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "7"
+          },
+          "calendar-days": {
+            "N": "9"
+          },
+          "value": {
+            "N": "10.661"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "10"
+          },
+          "calendar-days": {
+            "N": "14"
+          },
+          "value": {
+            "N": "10.662"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "13"
+          },
+          "calendar-days": {
+            "N": "19"
+          },
+          "value": {
+            "N": "10.662"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "14"
+          },
+          "calendar-days": {
+            "N": "20"
+          },
+          "value": {
+            "N": "10.662"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "15"
+          },
+          "calendar-days": {
+            "N": "22"
+          },
+          "value": {
+            "N": "10.662"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "21"
+          },
+          "calendar-days": {
+            "N": "30"
+          },
+          "value": {
+            "N": "10.559"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "22"
+          },
+          "calendar-days": {
+            "N": "33"
+          },
+          "value": {
+            "N": "10.547"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "24"
+          },
+          "calendar-days": {
+            "N": "35"
+          },
+          "value": {
+            "N": "10.527"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "26"
+          },
+          "calendar-days": {
+            "N": "37"
+          },
+          "value": {
+            "N": "10.51"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "29"
+          },
+          "calendar-days": {
+            "N": "42"
+          },
+          "value": {
+            "N": "10.488"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "34"
+          },
+          "calendar-days": {
+            "N": "49"
+          },
+          "value": {
+            "N": "10.461"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "35"
+          },
+          "calendar-days": {
+            "N": "51"
+          },
+          "value": {
+            "N": "10.456"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "36"
+          },
+          "calendar-days": {
+            "N": "54"
+          },
+          "value": {
+            "N": "10.452"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "41"
+          },
+          "calendar-days": {
+            "N": "61"
+          },
+          "value": {
+            "N": "10.41"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "43"
+          },
+          "calendar-days": {
+            "N": "63"
+          },
+          "value": {
+            "N": "10.395"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "45"
+          },
+          "calendar-days": {
+            "N": "65"
+          },
+          "value": {
+            "N": "10.383"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "46"
+          },
+          "calendar-days": {
+            "N": "68"
+          },
+          "value": {
+            "N": "10.377"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "49"
+          },
+          "calendar-days": {
+            "N": "71"
+          },
+          "value": {
+            "N": "10.36"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "50"
+          },
+          "calendar-days": {
+            "N": "72"
+          },
+          "value": {
+            "N": "10.355"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "54"
+          },
+          "calendar-days": {
+            "N": "78"
+          },
+          "value": {
+            "N": "10.336"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "55"
+          },
+          "calendar-days": {
+            "N": "79"
+          },
+          "value": {
+            "N": "10.332"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "56"
+          },
+          "calendar-days": {
+            "N": "82"
+          },
+          "value": {
+            "N": "10.328"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "62"
+          },
+          "calendar-days": {
+            "N": "90"
+          },
+          "value": {
+            "N": "10.29"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "66"
+          },
+          "calendar-days": {
+            "N": "96"
+          },
+          "value": {
+            "N": "10.268"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "68"
+          },
+          "calendar-days": {
+            "N": "98"
+          },
+          "value": {
+            "N": "10.258"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "72"
+          },
+          "calendar-days": {
+            "N": "104"
+          },
+          "value": {
+            "N": "10.24"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "77"
+          },
+          "calendar-days": {
+            "N": "111"
+          },
+          "value": {
+            "N": "10.22"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "78"
+          },
+          "calendar-days": {
+            "N": "112"
+          },
+          "value": {
+            "N": "10.217"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "79"
+          },
+          "calendar-days": {
+            "N": "113"
+          },
+          "value": {
+            "N": "10.213"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "84"
+          },
+          "calendar-days": {
+            "N": "120"
+          },
+          "value": {
+            "N": "10.189"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "88"
+          },
+          "calendar-days": {
+            "N": "126"
+          },
+          "value": {
+            "N": "10.173"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "89"
+          },
+          "calendar-days": {
+            "N": "127"
+          },
+          "value": {
+            "N": "10.169"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "90"
+          },
+          "calendar-days": {
+            "N": "128"
+          },
+          "value": {
+            "N": "10.165"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "99"
+          },
+          "calendar-days": {
+            "N": "141"
+          },
+          "value": {
+            "N": "10.133"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "100"
+          },
+          "calendar-days": {
+            "N": "142"
+          },
+          "value": {
+            "N": "10.13"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "101"
+          },
+          "calendar-days": {
+            "N": "145"
+          },
+          "value": {
+            "N": "10.127"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "106"
+          },
+          "calendar-days": {
+            "N": "152"
+          },
+          "value": {
+            "N": "10.119"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "110"
+          },
+          "calendar-days": {
+            "N": "156"
+          },
+          "value": {
+            "N": "10.113"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "111"
+          },
+          "calendar-days": {
+            "N": "159"
+          },
+          "value": {
+            "N": "10.111"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "113"
+          },
+          "calendar-days": {
+            "N": "161"
+          },
+          "value": {
+            "N": "10.108"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "114"
+          },
+          "calendar-days": {
+            "N": "162"
+          },
+          "value": {
+            "N": "10.107"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "115"
+          },
+          "calendar-days": {
+            "N": "163"
+          },
+          "value": {
+            "N": "10.106"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "121"
+          },
+          "calendar-days": {
+            "N": "173"
+          },
+          "value": {
+            "N": "10.098"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "122"
+          },
+          "calendar-days": {
+            "N": "174"
+          },
+          "value": {
+            "N": "10.097"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "126"
+          },
+          "calendar-days": {
+            "N": "180"
+          },
+          "value": {
+            "N": "10.092"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "129"
+          },
+          "calendar-days": {
+            "N": "183"
+          },
+          "value": {
+            "N": "10.088"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "133"
+          },
+          "calendar-days": {
+            "N": "189"
+          },
+          "value": {
+            "N": "10.083"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "144"
+          },
+          "calendar-days": {
+            "N": "204"
+          },
+          "value": {
+            "N": "10.071"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "145"
+          },
+          "calendar-days": {
+            "N": "205"
+          },
+          "value": {
+            "N": "10.07"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "148"
+          },
+          "calendar-days": {
+            "N": "210"
+          },
+          "value": {
+            "N": "10.068"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "153"
+          },
+          "calendar-days": {
+            "N": "217"
+          },
+          "value": {
+            "N": "10.065"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "155"
+          },
+          "calendar-days": {
+            "N": "222"
+          },
+          "value": {
+            "N": "10.064"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "163"
+          },
+          "calendar-days": {
+            "N": "233"
+          },
+          "value": {
+            "N": "10.06"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "164"
+          },
+          "calendar-days": {
+            "N": "236"
+          },
+          "value": {
+            "N": "10.06"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "168"
+          },
+          "calendar-days": {
+            "N": "240"
+          },
+          "value": {
+            "N": "10.054"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "176"
+          },
+          "calendar-days": {
+            "N": "252"
+          },
+          "value": {
+            "N": "10.044"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "178"
+          },
+          "calendar-days": {
+            "N": "254"
+          },
+          "value": {
+            "N": "10.041"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "182"
+          },
+          "calendar-days": {
+            "N": "261"
+          },
+          "value": {
+            "N": "10.036"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "183"
+          },
+          "calendar-days": {
+            "N": "264"
+          },
+          "value": {
+            "N": "10.035"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "185"
+          },
+          "calendar-days": {
+            "N": "267"
+          },
+          "value": {
+            "N": "10.033"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "187"
+          },
+          "calendar-days": {
+            "N": "271"
+          },
+          "value": {
+            "N": "10.032"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "194"
+          },
+          "calendar-days": {
+            "N": "280"
+          },
+          "value": {
+            "N": "10.03"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "206"
+          },
+          "calendar-days": {
+            "N": "296"
+          },
+          "value": {
+            "N": "10.027"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "207"
+          },
+          "calendar-days": {
+            "N": "299"
+          },
+          "value": {
+            "N": "10.027"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "208"
+          },
+          "calendar-days": {
+            "N": "300"
+          },
+          "value": {
+            "N": "10.026"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "214"
+          },
+          "calendar-days": {
+            "N": "308"
+          },
+          "value": {
+            "N": "10.023"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "217"
+          },
+          "calendar-days": {
+            "N": "313"
+          },
+          "value": {
+            "N": "10.021"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "225"
+          },
+          "calendar-days": {
+            "N": "323"
+          },
+          "value": {
+            "N": "10.016"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "226"
+          },
+          "calendar-days": {
+            "N": "324"
+          },
+          "value": {
+            "N": "10.016"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "227"
+          },
+          "calendar-days": {
+            "N": "329"
+          },
+          "value": {
+            "N": "10.015"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "228"
+          },
+          "calendar-days": {
+            "N": "330"
+          },
+          "value": {
+            "N": "10.015"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "231"
+          },
+          "calendar-days": {
+            "N": "335"
+          },
+          "value": {
+            "N": "10.016"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "235"
+          },
+          "calendar-days": {
+            "N": "341"
+          },
+          "value": {
+            "N": "10.016"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "239"
+          },
+          "calendar-days": {
+            "N": "345"
+          },
+          "value": {
+            "N": "10.017"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "245"
+          },
+          "calendar-days": {
+            "N": "355"
+          },
+          "value": {
+            "N": "10.018"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "246"
+          },
+          "calendar-days": {
+            "N": "356"
+          },
+          "value": {
+            "N": "10.018"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "250"
+          },
+          "calendar-days": {
+            "N": "362"
+          },
+          "value": {
+            "N": "10.019"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "257"
+          },
+          "calendar-days": {
+            "N": "371"
+          },
+          "value": {
+            "N": "10.022"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "264"
+          },
+          "calendar-days": {
+            "N": "384"
+          },
+          "value": {
+            "N": "10.024"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "266"
+          },
+          "calendar-days": {
+            "N": "387"
+          },
+          "value": {
+            "N": "10.025"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "267"
+          },
+          "calendar-days": {
+            "N": "390"
+          },
+          "value": {
+            "N": "10.025"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "275"
+          },
+          "calendar-days": {
+            "N": "400"
+          },
+          "value": {
+            "N": "10.028"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "280"
+          },
+          "calendar-days": {
+            "N": "407"
+          },
+          "value": {
+            "N": "10.029"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "289"
+          },
+          "calendar-days": {
+            "N": "420"
+          },
+          "value": {
+            "N": "10.031"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "299"
+          },
+          "calendar-days": {
+            "N": "434"
+          },
+          "value": {
+            "N": "10.034"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "305"
+          },
+          "calendar-days": {
+            "N": "443"
+          },
+          "value": {
+            "N": "10.036"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "307"
+          },
+          "calendar-days": {
+            "N": "447"
+          },
+          "value": {
+            "N": "10.036"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "310"
+          },
+          "calendar-days": {
+            "N": "450"
+          },
+          "value": {
+            "N": "10.04"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "317"
+          },
+          "calendar-days": {
+            "N": "461"
+          },
+          "value": {
+            "N": "10.048"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "328"
+          },
+          "calendar-days": {
+            "N": "476"
+          },
+          "value": {
+            "N": "10.061"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "331"
+          },
+          "calendar-days": {
+            "N": "481"
+          },
+          "value": {
+            "N": "10.064"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "338"
+          },
+          "calendar-days": {
+            "N": "490"
+          },
+          "value": {
+            "N": "10.072"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "340"
+          },
+          "calendar-days": {
+            "N": "492"
+          },
+          "value": {
+            "N": "10.074"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "349"
+          },
+          "calendar-days": {
+            "N": "505"
+          },
+          "value": {
+            "N": "10.083"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "350"
+          },
+          "calendar-days": {
+            "N": "506"
+          },
+          "value": {
+            "N": "10.084"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "352"
+          },
+          "calendar-days": {
+            "N": "510"
+          },
+          "value": {
+            "N": "10.086"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "361"
+          },
+          "calendar-days": {
+            "N": "523"
+          },
+          "value": {
+            "N": "10.094"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "366"
+          },
+          "calendar-days": {
+            "N": "530"
+          },
+          "value": {
+            "N": "10.099"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "373"
+          },
+          "calendar-days": {
+            "N": "539"
+          },
+          "value": {
+            "N": "10.105"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "374"
+          },
+          "calendar-days": {
+            "N": "540"
+          },
+          "value": {
+            "N": "10.106"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "383"
+          },
+          "calendar-days": {
+            "N": "553"
+          },
+          "value": {
+            "N": "10.115"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "394"
+          },
+          "calendar-days": {
+            "N": "568"
+          },
+          "value": {
+            "N": "10.125"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "396"
+          },
+          "calendar-days": {
+            "N": "572"
+          },
+          "value": {
+            "N": "10.126"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "406"
+          },
+          "calendar-days": {
+            "N": "586"
+          },
+          "value": {
+            "N": "10.135"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "415"
+          },
+          "calendar-days": {
+            "N": "600"
+          },
+          "value": {
+            "N": "10.142"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "427"
+          },
+          "calendar-days": {
+            "N": "616"
+          },
+          "value": {
+            "N": "10.152"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "428"
+          },
+          "calendar-days": {
+            "N": "617"
+          },
+          "value": {
+            "N": "10.152"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "436"
+          },
+          "calendar-days": {
+            "N": "630"
+          },
+          "value": {
+            "N": "10.158"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "437"
+          },
+          "calendar-days": {
+            "N": "632"
+          },
+          "value": {
+            "N": "10.159"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "446"
+          },
+          "calendar-days": {
+            "N": "645"
+          },
+          "value": {
+            "N": "10.174"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "457"
+          },
+          "calendar-days": {
+            "N": "660"
+          },
+          "value": {
+            "N": "10.192"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "468"
+          },
+          "calendar-days": {
+            "N": "679"
+          },
+          "value": {
+            "N": "10.209"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "476"
+          },
+          "calendar-days": {
+            "N": "691"
+          },
+          "value": {
+            "N": "10.221"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "491"
+          },
+          "calendar-days": {
+            "N": "712"
+          },
+          "value": {
+            "N": "10.242"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "497"
+          },
+          "calendar-days": {
+            "N": "720"
+          },
+          "value": {
+            "N": "10.25"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "498"
+          },
+          "calendar-days": {
+            "N": "721"
+          },
+          "value": {
+            "N": "10.251"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "507"
+          },
+          "calendar-days": {
+            "N": "735"
+          },
+          "value": {
+            "N": "10.265"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "517"
+          },
+          "calendar-days": {
+            "N": "750"
+          },
+          "value": {
+            "N": "10.279"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "527"
+          },
+          "calendar-days": {
+            "N": "765"
+          },
+          "value": {
+            "N": "10.293"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "538"
+          },
+          "calendar-days": {
+            "N": "782"
+          },
+          "value": {
+            "N": "10.308"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "557"
+          },
+          "calendar-days": {
+            "N": "810"
+          },
+          "value": {
+            "N": "10.333"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "559"
+          },
+          "calendar-days": {
+            "N": "812"
+          },
+          "value": {
+            "N": "10.335"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "579"
+          },
+          "calendar-days": {
+            "N": "840"
+          },
+          "value": {
+            "N": "10.365"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "592"
+          },
+          "calendar-days": {
+            "N": "859"
+          },
+          "value": {
+            "N": "10.384"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "601"
+          },
+          "calendar-days": {
+            "N": "870"
+          },
+          "value": {
+            "N": "10.396"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "621"
+          },
+          "calendar-days": {
+            "N": "901"
+          },
+          "value": {
+            "N": "10.422"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "624"
+          },
+          "calendar-days": {
+            "N": "904"
+          },
+          "value": {
+            "N": "10.426"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "641"
+          },
+          "calendar-days": {
+            "N": "930"
+          },
+          "value": {
+            "N": "10.444"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "654"
+          },
+          "calendar-days": {
+            "N": "950"
+          },
+          "value": {
+            "N": "10.456"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "661"
+          },
+          "calendar-days": {
+            "N": "960"
+          },
+          "value": {
+            "N": "10.463"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "682"
+          },
+          "calendar-days": {
+            "N": "992"
+          },
+          "value": {
+            "N": "10.482"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "686"
+          },
+          "calendar-days": {
+            "N": "999"
+          },
+          "value": {
+            "N": "10.486"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "701"
+          },
+          "calendar-days": {
+            "N": "1020"
+          },
+          "value": {
+            "N": "10.508"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "714"
+          },
+          "calendar-days": {
+            "N": "1041"
+          },
+          "value": {
+            "N": "10.527"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "721"
+          },
+          "calendar-days": {
+            "N": "1050"
+          },
+          "value": {
+            "N": "10.537"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "743"
+          },
+          "calendar-days": {
+            "N": "1083"
+          },
+          "value": {
+            "N": "10.566"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "746"
+          },
+          "calendar-days": {
+            "N": "1086"
+          },
+          "value": {
+            "N": "10.57"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "762"
+          },
+          "calendar-days": {
+            "N": "1111"
+          },
+          "value": {
+            "N": "10.595"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "777"
+          },
+          "calendar-days": {
+            "N": "1132"
+          },
+          "value": {
+            "N": "10.618"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "783"
+          },
+          "calendar-days": {
+            "N": "1140"
+          },
+          "value": {
+            "N": "10.626"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "804"
+          },
+          "calendar-days": {
+            "N": "1170"
+          },
+          "value": {
+            "N": "10.656"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "809"
+          },
+          "calendar-days": {
+            "N": "1177"
+          },
+          "value": {
+            "N": "10.663"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "826"
+          },
+          "calendar-days": {
+            "N": "1202"
+          },
+          "value": {
+            "N": "10.687"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "841"
+          },
+          "calendar-days": {
+            "N": "1223"
+          },
+          "value": {
+            "N": "10.708"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "874"
+          },
+          "calendar-days": {
+            "N": "1269"
+          },
+          "value": {
+            "N": "10.751"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "903"
+          },
+          "calendar-days": {
+            "N": "1315"
+          },
+          "value": {
+            "N": "10.783"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "937"
+          },
+          "calendar-days": {
+            "N": "1363"
+          },
+          "value": {
+            "N": "10.817"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "968"
+          },
+          "calendar-days": {
+            "N": "1406"
+          },
+          "value": {
+            "N": "10.853"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "990"
+          },
+          "calendar-days": {
+            "N": "1440"
+          },
+          "value": {
+            "N": "10.877"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1000"
+          },
+          "calendar-days": {
+            "N": "1454"
+          },
+          "value": {
+            "N": "10.888"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1027"
+          },
+          "calendar-days": {
+            "N": "1496"
+          },
+          "value": {
+            "N": "10.917"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1061"
+          },
+          "calendar-days": {
+            "N": "1545"
+          },
+          "value": {
+            "N": "10.952"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1092"
+          },
+          "calendar-days": {
+            "N": "1588"
+          },
+          "value": {
+            "N": "10.976"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1125"
+          },
+          "calendar-days": {
+            "N": "1636"
+          },
+          "value": {
+            "N": "11.001"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1155"
+          },
+          "calendar-days": {
+            "N": "1681"
+          },
+          "value": {
+            "N": "11.019"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1185"
+          },
+          "calendar-days": {
+            "N": "1728"
+          },
+          "value": {
+            "N": "11.036"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1215"
+          },
+          "calendar-days": {
+            "N": "1772"
+          },
+          "value": {
+            "N": "11.059"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1235"
+          },
+          "calendar-days": {
+            "N": "1800"
+          },
+          "value": {
+            "N": "11.073"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1246"
+          },
+          "calendar-days": {
+            "N": "1818"
+          },
+          "value": {
+            "N": "11.081"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1276"
+          },
+          "calendar-days": {
+            "N": "1861"
+          },
+          "value": {
+            "N": "11.103"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1309"
+          },
+          "calendar-days": {
+            "N": "1909"
+          },
+          "value": {
+            "N": "11.126"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1331"
+          },
+          "calendar-days": {
+            "N": "1939"
+          },
+          "value": {
+            "N": "11.141"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1341"
+          },
+          "calendar-days": {
+            "N": "1953"
+          },
+          "value": {
+            "N": "11.147"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1404"
+          },
+          "calendar-days": {
+            "N": "2046"
+          },
+          "value": {
+            "N": "11.187"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1434"
+          },
+          "calendar-days": {
+            "N": "2093"
+          },
+          "value": {
+            "N": "11.204"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1466"
+          },
+          "calendar-days": {
+            "N": "2137"
+          },
+          "value": {
+            "N": "11.217"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1480"
+          },
+          "calendar-days": {
+            "N": "2161"
+          },
+          "value": {
+            "N": "11.223"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1495"
+          },
+          "calendar-days": {
+            "N": "2182"
+          },
+          "value": {
+            "N": "11.229"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1525"
+          },
+          "calendar-days": {
+            "N": "2226"
+          },
+          "value": {
+            "N": "11.241"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1557"
+          },
+          "calendar-days": {
+            "N": "2273"
+          },
+          "value": {
+            "N": "11.253"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1590"
+          },
+          "calendar-days": {
+            "N": "2318"
+          },
+          "value": {
+            "N": "11.264"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1656"
+          },
+          "calendar-days": {
+            "N": "2413"
+          },
+          "value": {
+            "N": "11.287"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1686"
+          },
+          "calendar-days": {
+            "N": "2458"
+          },
+          "value": {
+            "N": "11.296"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1718"
+          },
+          "calendar-days": {
+            "N": "2504"
+          },
+          "value": {
+            "N": "11.303"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1728"
+          },
+          "calendar-days": {
+            "N": "2520"
+          },
+          "value": {
+            "N": "11.306"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1776"
+          },
+          "calendar-days": {
+            "N": "2591"
+          },
+          "value": {
+            "N": "11.316"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1841"
+          },
+          "calendar-days": {
+            "N": "2683"
+          },
+          "value": {
+            "N": "11.33"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1907"
+          },
+          "calendar-days": {
+            "N": "2777"
+          },
+          "value": {
+            "N": "11.342"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1938"
+          },
+          "calendar-days": {
+            "N": "2823"
+          },
+          "value": {
+            "N": "11.348"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1967"
+          },
+          "calendar-days": {
+            "N": "2868"
+          },
+          "value": {
+            "N": "11.352"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "1977"
+          },
+          "calendar-days": {
+            "N": "2882"
+          },
+          "value": {
+            "N": "11.353"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2030"
+          },
+          "calendar-days": {
+            "N": "2959"
+          },
+          "value": {
+            "N": "11.359"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2094"
+          },
+          "calendar-days": {
+            "N": "3050"
+          },
+          "value": {
+            "N": "11.367"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2156"
+          },
+          "calendar-days": {
+            "N": "3142"
+          },
+          "value": {
+            "N": "11.373"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2190"
+          },
+          "calendar-days": {
+            "N": "3190"
+          },
+          "value": {
+            "N": "11.377"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2221"
+          },
+          "calendar-days": {
+            "N": "3233"
+          },
+          "value": {
+            "N": "11.377"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2226"
+          },
+          "calendar-days": {
+            "N": "3240"
+          },
+          "value": {
+            "N": "11.377"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2281"
+          },
+          "calendar-days": {
+            "N": "3323"
+          },
+          "value": {
+            "N": "11.377"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2345"
+          },
+          "calendar-days": {
+            "N": "3414"
+          },
+          "value": {
+            "N": "11.378"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2408"
+          },
+          "calendar-days": {
+            "N": "3507"
+          },
+          "value": {
+            "N": "11.378"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2441"
+          },
+          "calendar-days": {
+            "N": "3554"
+          },
+          "value": {
+            "N": "11.378"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2473"
+          },
+          "calendar-days": {
+            "N": "3598"
+          },
+          "value": {
+            "N": "11.383"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2475"
+          },
+          "calendar-days": {
+            "N": "3600"
+          },
+          "value": {
+            "N": "11.383"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2531"
+          },
+          "calendar-days": {
+            "N": "3687"
+          },
+          "value": {
+            "N": "11.391"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2596"
+          },
+          "calendar-days": {
+            "N": "3779"
+          },
+          "value": {
+            "N": "11.401"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2659"
+          },
+          "calendar-days": {
+            "N": "3872"
+          },
+          "value": {
+            "N": "11.409"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2689"
+          },
+          "calendar-days": {
+            "N": "3919"
+          },
+          "value": {
+            "N": "11.413"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2716"
+          },
+          "calendar-days": {
+            "N": "3960"
+          },
+          "value": {
+            "N": "11.414"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2719"
+          },
+          "calendar-days": {
+            "N": "3963"
+          },
+          "value": {
+            "N": "11.414"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2780"
+          },
+          "calendar-days": {
+            "N": "4052"
+          },
+          "value": {
+            "N": "11.417"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2845"
+          },
+          "calendar-days": {
+            "N": "4144"
+          },
+          "value": {
+            "N": "11.42"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2908"
+          },
+          "calendar-days": {
+            "N": "4237"
+          },
+          "value": {
+            "N": "11.423"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2938"
+          },
+          "calendar-days": {
+            "N": "4284"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2964"
+          },
+          "calendar-days": {
+            "N": "4320"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "2970"
+          },
+          "calendar-days": {
+            "N": "4328"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3029"
+          },
+          "calendar-days": {
+            "N": "4418"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3094"
+          },
+          "calendar-days": {
+            "N": "4510"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3160"
+          },
+          "calendar-days": {
+            "N": "4604"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3191"
+          },
+          "calendar-days": {
+            "N": "4650"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3212"
+          },
+          "calendar-days": {
+            "N": "4681"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3222"
+          },
+          "calendar-days": {
+            "N": "4697"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3281"
+          },
+          "calendar-days": {
+            "N": "4783"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3346"
+          },
+          "calendar-days": {
+            "N": "4877"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3408"
+          },
+          "calendar-days": {
+            "N": "4968"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3440"
+          },
+          "calendar-days": {
+            "N": "5017"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3457"
+          },
+          "calendar-days": {
+            "N": "5040"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3470"
+          },
+          "calendar-days": {
+            "N": "5059"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3531"
+          },
+          "calendar-days": {
+            "N": "5150"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3595"
+          },
+          "calendar-days": {
+            "N": "5241"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3657"
+          },
+          "calendar-days": {
+            "N": "5333"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3691"
+          },
+          "calendar-days": {
+            "N": "5381"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3706"
+          },
+          "calendar-days": {
+            "N": "5402"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3722"
+          },
+          "calendar-days": {
+            "N": "5424"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3782"
+          },
+          "calendar-days": {
+            "N": "5514"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3829"
+          },
+          "calendar-days": {
+            "N": "5580"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3846"
+          },
+          "calendar-days": {
+            "N": "5605"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3909"
+          },
+          "calendar-days": {
+            "N": "5698"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "3972"
+          },
+          "calendar-days": {
+            "N": "5789"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4034"
+          },
+          "calendar-days": {
+            "N": "5879"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4099"
+          },
+          "calendar-days": {
+            "N": "5971"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4162"
+          },
+          "calendar-days": {
+            "N": "6064"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4224"
+          },
+          "calendar-days": {
+            "N": "6155"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4283"
+          },
+          "calendar-days": {
+            "N": "6244"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4348"
+          },
+          "calendar-days": {
+            "N": "6336"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4414"
+          },
+          "calendar-days": {
+            "N": "6431"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4476"
+          },
+          "calendar-days": {
+            "N": "6524"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4534"
+          },
+          "calendar-days": {
+            "N": "6609"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4599"
+          },
+          "calendar-days": {
+            "N": "6701"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4665"
+          },
+          "calendar-days": {
+            "N": "6795"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4725"
+          },
+          "calendar-days": {
+            "N": "6886"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4786"
+          },
+          "calendar-days": {
+            "N": "6974"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4851"
+          },
+          "calendar-days": {
+            "N": "7068"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4913"
+          },
+          "calendar-days": {
+            "N": "7159"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4941"
+          },
+          "calendar-days": {
+            "N": "7201"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "4975"
+          },
+          "calendar-days": {
+            "N": "7250"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5036"
+          },
+          "calendar-days": {
+            "N": "7341"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5100"
+          },
+          "calendar-days": {
+            "N": "7432"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5163"
+          },
+          "calendar-days": {
+            "N": "7525"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5228"
+          },
+          "calendar-days": {
+            "N": "7616"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5286"
+          },
+          "calendar-days": {
+            "N": "7705"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5351"
+          },
+          "calendar-days": {
+            "N": "7797"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5474"
+          },
+          "calendar-days": {
+            "N": "7981"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5600"
+          },
+          "calendar-days": {
+            "N": "8162"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5725"
+          },
+          "calendar-days": {
+            "N": "8346"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5849"
+          },
+          "calendar-days": {
+            "N": "8527"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "5977"
+          },
+          "calendar-days": {
+            "N": "8715"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "6101"
+          },
+          "calendar-days": {
+            "N": "8895"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "6172"
+          },
+          "calendar-days": {
+            "N": "9000"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "6225"
+          },
+          "calendar-days": {
+            "N": "9077"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "6350"
+          },
+          "calendar-days": {
+            "N": "9259"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "6477"
+          },
+          "calendar-days": {
+            "N": "9442"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "6601"
+          },
+          "calendar-days": {
+            "N": "9623"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "7410"
+          },
+          "calendar-days": {
+            "N": "10800"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "7790"
+          },
+          "calendar-days": {
+            "N": "11359"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      },
+      {
+        "M": {
+          "business-days": {
+            "N": "9107"
+          },
+          "calendar-days": {
+            "N": "13277"
+          },
+          "value": {
+            "N": "11.424"
+          }
+        }
+      }
+    ]
+  },
+  "reference-date": {
+    "S": "2024-04-10"
+  }
+}
